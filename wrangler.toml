@@ -1,0 +1,3 @@
+name = "b64-file-worker"
+type = "webpack"
+workers_dev = true

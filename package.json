@@ -1,0 +1,8 @@
+{
+  "author": "Praseetha-KR <praseetha04@gmail.com>",
+  "version": "0.0.1",
+  "scripts": {},
+  "dependencies": {},
+  "description": "File content Base64 Converter",
+  "main": "./index.js"
+}
